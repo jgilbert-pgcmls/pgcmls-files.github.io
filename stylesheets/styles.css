@@ -350,7 +350,7 @@ footer {
 .right{
   width:70%;
   float:left;
-  border-right:2px solid #999999;
+  border-left:2px solid #999999;
 }
 
 .left{
@@ -372,12 +372,11 @@ footer {
 .hours ul li{
   float:left;
   display:block;
-  font-size:10px;
+  font-size:12px;
   font-family:Arial, sans-serif;
-  color:red;
 }
 
-.right h3{
+.right h4{
   font-size:20px;
   padding:0px 0px 5px 0px;
   margin:0px 0px 5px 0px;
