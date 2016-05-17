@@ -359,7 +359,6 @@ footer {
 }
 
 .hours{
-  background-color:#999999;
   padding:10px;
   margin:0px;
 }
@@ -373,6 +372,14 @@ footer {
 .hours ul li{
   float:left;
   display:block;
-  font-size:14px;
+  font-size:10px;
   font-family:Arial, sans-serif;
+  color:red;
+}
+
+.right h3{
+  font-size:20px;
+  padding:0px 0px 5px 0px;
+  margin:0px 0px 5px 0px;
+  color:red;
 }
