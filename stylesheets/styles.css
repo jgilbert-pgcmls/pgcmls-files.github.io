@@ -158,7 +158,11 @@ img {
 }
 
 header {
-  width:270px;
+  width:100%; 
+  background-color:#cccccc;
+  padding:0px; 
+  margin:0px;
+  border-bottom:5px; solid #333333;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
