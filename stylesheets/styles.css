@@ -375,10 +375,10 @@ footer {
   padding:0px;
   margin:0px; 
   list-style-type:none;
+  display:block;
 }
 
 .hours ul li{
-  float:left;
   display:block;
   font-size:12px;
   font-family:Arial, sans-serif;
@@ -392,6 +392,8 @@ footer {
 }
 
 .left iframe{
+  margin:0 auto;
   width:225px;
+  height:200px;
   padding-top:20px;
 }
