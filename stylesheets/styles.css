@@ -390,3 +390,8 @@ footer {
   margin:0px 0px 5px 0px;
   color:red;
 }
+
+.left iframe{
+  width:250px;
+  height:200px;
+}
