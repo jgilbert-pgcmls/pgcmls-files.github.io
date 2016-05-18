@@ -348,9 +348,10 @@ footer {
 }
 
 .right{
-  width:70%;
+  width:67%;
   float:left;
-  border-left:2px solid #999999;
+  border-left:1px solid #f1f1f1;
+  padding:10px;
 }
 
 .left{
