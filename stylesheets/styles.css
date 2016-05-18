@@ -392,6 +392,6 @@ footer {
 }
 
 .left iframe{
-  width:250px;
-  height:200px;
+  width:225px;
+  padding-top:20px;
 }
