@@ -364,6 +364,13 @@ footer {
   margin:0px;
 }
 
+.hours p{
+  text-align:center;
+  font-weight:bold;
+  font-size:16px;
+  color:#eaeaea;
+}
+
 .hours ul{
   padding:0px;
   margin:0px; 
